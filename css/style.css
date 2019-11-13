@@ -1,0 +1,99 @@
+@import "html5reset.css";
+@import url('https://fonts.googleapis.com/css?family=Fredoka+One|Rubik&display=swap');
+
+body {
+	font-family: 'Rubik', sans-serif;
+	font-size: 18px;
+}
+
+h1 {
+	font-family: 'Fredoka One', cursive;
+	font-size: 50px;
+}
+
+h2 {
+	font-family: 'Fredoka One', cursive;
+	font-size: 30px;
+}
+
+h3 {
+	font-family: 'Fredoka One', cursive;
+	font-size: 20px;
+}
+
+.navigation {
+	background-color: #1a606a;
+	color: #eff0f4;
+}
+
+.navbar-item, .navbar-link, .heading {
+	font-family: 'Rubik', sans-serif;
+	font-size: 18px;
+	color: #eff0f4;
+}
+
+.navbar-dropdown a {
+	font-family: 'Rubik', sans-serif;
+	font-size: 18px;
+	color: #111f28;
+}
+
+.donate_button {
+	background-color: #1a606a;
+	color: #fcc060;
+	border: 3px solid #fcc060;
+	font-family: 'Fredoka One', cursive;
+	font-size: 20px;
+	font-weight: bold;
+
+}
+
+.title1 {
+	font-size: 50px;
+}
+
+.subtitle1 {
+	font-size: 30px;
+	width: 50%;
+	padding-top: 15px;
+}
+
+.subtitle2 {
+	font-size: 30px;
+	text-align: center;
+}
+
+#m_statement {
+	/*width: 50%;*/
+	text-align: center;
+}
+
+#supporters_text {
+	font-size: 20px;
+	text-align: center;
+}
+
+.column_text {
+	margin: auto;
+}
+
+.founder_name {
+	text-align: center;
+	padding-top: 15px;
+}
+
+.staff_container {
+	background-color: #16b9c8;
+}
+
+.footer1 {
+	background-color: #1a606a;
+}
+
+.other {
+  background-color: #DBDBDB;
+  width: 1300px;
+	length: 900px;
+	padding: 20px;
+
+}
